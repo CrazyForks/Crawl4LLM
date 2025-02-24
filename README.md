@@ -1,6 +1,6 @@
-# Crawl4LLM
+# Craw4LLM
 
-This repo contains the code for the paper "[Crawl4LLM: Efficient Web Crawling for LLM Pretraining](https://arxiv.org/pdf/2502.13347)".
+This repo contains the code for the paper "[Craw4LLM: Efficient Web Crawling for LLM Pretraining](https://arxiv.org/pdf/2502.13347)".
 
 ## Prerequisite
 
@@ -26,7 +26,7 @@ To run a (simulated) crawl, first create a yaml configuration file under `config
 python crawl.py crawl --config <path_to_your_config_file>
 ```
 
-### Crawl4LLM
+### Craw4LLM
 
 Create a yaml file in `configs/` with the following content:
 
